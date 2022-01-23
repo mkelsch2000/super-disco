@@ -1,7 +1,7 @@
 
 // display current date
 var loadDate = function() {
-  var date = moment().format("MMMM Do YY");
+  var date = moment().format("MMMM Do YYYY");
   $("#currentDay").text(date);
 
   timeBlock();
