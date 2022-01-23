@@ -6,9 +6,9 @@ All that being said, I set out to tackle this project first by cloning the start
 
 
 
-![Screenshot #1](https://github.com/mkelsch2000/super-disco/blob/main/develop/image1.PNG)
+![Screenshot #1](https://github.com/mkelsch2000/super-disco/blob/main/Develop/image1.PNG)
 Format: ![Alt]("Screenshot of the Upper portion of the website")
-![Screenshot #2](https://github.com/mkelsch2000/super-disco/blob/main/develop/image2.PNG)
+![Screenshot #2](https://github.com/mkelsch2000/super-disco/blob/main/Develop/image2.PNG)
 Format: ![Alt]("Screenshot of the Lower portion of the website")
 
 Deployed Application: https://mkelsch2000.github.io/super-disco/
